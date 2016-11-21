@@ -1,5 +1,7 @@
 jQuery Plugins make it easy to add interactivity to a site and utilise solutions which may save time  when working on website front-end.
 
+The project is built following "Using jQuery Plugins" course by Team Treehouse - https://teamtreehouse.com/library/using-jquery-plugins.
+
 
 NOTES:
 
