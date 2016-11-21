@@ -11,7 +11,10 @@ Adding a Plugin to a Web Page:
 4. Structure your HTML.
 5. Add your own JavaScript.
 6. Select an element on the page using jQuery.
+		<script>
+			$(".animsition")
+		</script>	
 7. Call the plugin function.
-	<script>
-		$(".animsition").animsition();
-	</script>
+		<script>
+			$(".animsition").animsition();
+		</script>
