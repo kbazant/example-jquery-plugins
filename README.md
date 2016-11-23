@@ -1,7 +1,10 @@
 jQuery Plugins make it easy to add interactivity to a site and utilise solutions which may save time  when working on website front-end.
 
-The project is built following "Using jQuery Plugins" course by Team Treehouse - https://teamtreehouse.com/library/using-jquery-plugins.
 
+PLUGINS USED:
+
+Animsition http://git.blivesta.com/animsition/
+Sticky http://stickyjs.com/ 
 
 NOTES:
 
@@ -20,3 +23,6 @@ Adding a Plugin to a Web Page:
 		<script>
 			$(".animsition").animsition();
 		</script>
+		
+
+The project is based on "Using jQuery Plugins" course by Team Treehouse - https://teamtreehouse.com/library/using-jquery-plugins.		
