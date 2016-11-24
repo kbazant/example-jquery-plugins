@@ -3,8 +3,9 @@ jQuery Plugins make it easy to add interactivity to a site and utilise solutions
 
 PLUGINS USED:
 
-Animsition http://git.blivesta.com/animsition/
-Sticky http://stickyjs.com/ 
+Animsition (animated page transitions) http://git.blivesta.com/animsition/
+Sticky (makes any element on a web page always stay visible) http://stickyjs.com/ 
+Slick (image carousels) http://kenwheeler.github.io/slick/
 
 NOTES:
 
